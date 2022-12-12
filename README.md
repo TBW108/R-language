@@ -6,3 +6,6 @@ https://blog.csdn.net/yijiaobani/article/details/124009210?ops_request_misc=%257
 
 # data
 The data comes from the book 《应用回归分析（R语言版）》. It can be found on the website of the press of the book.
+
+# F检验详细解析
+https://zhuanlan.zhihu.com/p/139151375
